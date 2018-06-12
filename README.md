@@ -1,2 +1,3 @@
-# speaking-javascript-axel-rauschmayer
-Learnings and examples from Axel Rauschmayer's phenomenal JavaScript book "Speaking JavaScript"
+# Speaking JavaScript - Axel Rauschmayer
+
+1.  [Chapter 1 - Basic JavaScript](./takeaways/chapter-1-basic-javascript.md)
